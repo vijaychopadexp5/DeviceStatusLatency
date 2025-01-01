@@ -18,7 +18,7 @@ import npm.prob.mail.MailConfig;
 public class DeviceStatusLatency {
 
     public static void main(String[] args) {
-        System.out.println("Start Device status latency history 26Dec24 3am- Working hours-8am to 7pm");
+        System.out.println("Start Device status latency history 26Dec24 3am- Working hours-8am to 7pm@");
         
         /* try {
              MailConfig mailConfig = new MailConfig();
